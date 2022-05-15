@@ -1,0 +1,8 @@
+{
+  "ExternalFunctions": [
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.UnsafeUtility::Free",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.UnsafeUtility.Free(void* memory, Unity.Collections.Allocator allocator) -> void_26a78a2b81033e4f61c5e89df4f1b57a"
+    }
+  ]
+}

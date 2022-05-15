@@ -1,0 +1,131 @@
+{
+    "m_SelectedDeviceId": "5532545631433498",
+    "m_SelectedPackage": {
+        "deviceId": "5532545631433498",
+        "name": "com.ultralytics.ultralytics_app",
+        "processId": 22851,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "5532545631433498",
+            "name": "com.sec.android.app.launcher",
+            "processId": 7604,
+            "exited": false
+        },
+        {
+            "deviceId": "5532545631433498",
+            "name": "com.DefaultCompany.BarracudaBP",
+            "processId": 16433,
+            "exited": true
+        },
+        {
+            "deviceId": "5532545631433498",
+            "name": "com.DefaultCompany.BarracudaBP",
+            "processId": 18043,
+            "exited": true
+        },
+        {
+            "deviceId": "5532545631433498",
+            "name": "com.DefaultCompany.BarracudaBP",
+            "processId": 21170,
+            "exited": true
+        },
+        {
+            "deviceId": "5532545631433498",
+            "name": "com.DefaultCompany.BarracudaBP",
+            "processId": 28999,
+            "exited": true
+        },
+        {
+            "deviceId": "5532545631433498",
+            "name": "com.DefaultCompany.BarracudaBP",
+            "processId": 15304,
+            "exited": true
+        },
+        {
+            "deviceId": "5532545631433498",
+            "name": "com.ultralytics.ultralytics_app",
+            "processId": 22851,
+            "exited": false
+        },
+        {
+            "deviceId": "3da7bb4e",
+            "name": "com.DefaultCompany.BarracudaBP",
+            "processId": 10969,
+            "exited": true
+        },
+        {
+            "deviceId": "3da7bb4e",
+            "name": "com.DefaultCompany.BarracudaBP",
+            "processId": 10971,
+            "exited": true
+        },
+        {
+            "deviceId": "3da7bb4e",
+            "name": "net.oneplus.launcher",
+            "processId": 4284,
+            "exited": false
+        },
+        {
+            "deviceId": "3da7bb4e",
+            "name": "com.DefaultCompany.BarracudaBP",
+            "processId": 10963,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

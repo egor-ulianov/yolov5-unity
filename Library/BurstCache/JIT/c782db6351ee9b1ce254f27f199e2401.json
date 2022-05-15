@@ -1,0 +1,16 @@
+{
+  "ExternalFunctions": [
+    {
+      "Name": "Unity.Jobs.LowLevel.Unsafe.JobsUtility::GetWorkStealingRange",
+      "FullName": "Unity.Jobs.LowLevel.Unsafe.JobsUtility.GetWorkStealingRange(ref Unity.Jobs.LowLevel.Unsafe.JobRanges ranges, int jobIndex, ref int beginIndex, ref int endIndex) -> bool_20a9cc183c0d7a6a08efa9ab541a2018"
+    },
+    {
+      "Name": "Unity.Jobs.LowLevel.Unsafe.JobsUtility::PatchBufferMinMaxRanges",
+      "FullName": "Unity.Jobs.LowLevel.Unsafe.JobsUtility.PatchBufferMinMaxRanges(System.IntPtr bufferRangePatchData, void* jobdata, int startIndex, int rangeSize) -> void_20a9cc183c0d7a6a08efa9ab541a2018"
+    },
+    {
+      "Name": "burst_abort",
+      "FullName": "unused.burst_abort(System.String errorId, System.String message) -> void"
+    }
+  ]
+}
