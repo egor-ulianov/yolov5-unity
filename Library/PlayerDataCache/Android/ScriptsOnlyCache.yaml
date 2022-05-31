@@ -26,10 +26,11 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.AspectRatioFitter
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.HorizontalLayoutGroup
     - UnityEngine.UI.Image
     - UnityEngine.UI.RawImage
   sceneClasses:
-    Assets/Scenes/SampleScene.unity:
+    Assets/Scenes/Detector.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -55,37 +56,39 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1598}
+      Script: {instanceID: 1566}
     - Class: 114
-      Script: {instanceID: 1890}
+      Script: {instanceID: 1826}
     - Class: 114
-      Script: {instanceID: 1896}
+      Script: {instanceID: 1924}
     - Class: 114
-      Script: {instanceID: 2226}
+      Script: {instanceID: 1930}
     - Class: 114
-      Script: {instanceID: 2388}
+      Script: {instanceID: 2268}
     - Class: 114
-      Script: {instanceID: 2602}
+      Script: {instanceID: 2438}
     - Class: 114
-      Script: {instanceID: 2728}
+      Script: {instanceID: 2654}
     - Class: 114
-      Script: {instanceID: 2744}
+      Script: {instanceID: 2784}
     - Class: 114
-      Script: {instanceID: 2794}
+      Script: {instanceID: 2802}
     - Class: 114
-      Script: {instanceID: 2952}
+      Script: {instanceID: 2854}
     - Class: 114
-      Script: {instanceID: 3074}
+      Script: {instanceID: 3026}
     - Class: 114
-      Script: {instanceID: 3184}
+      Script: {instanceID: 3152}
     - Class: 114
-      Script: {instanceID: 3804}
+      Script: {instanceID: 3266}
     - Class: 114
-      Script: {instanceID: 4516}
+      Script: {instanceID: 3900}
     - Class: 114
-      Script: {instanceID: 4848}
+      Script: {instanceID: 4636}
     - Class: 114
-      Script: {instanceID: 5282}
+      Script: {instanceID: 4978}
+    - Class: 114
+      Script: {instanceID: 5420}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -105,16 +108,16 @@ ScriptsOnlyBuild:
   scriptHashData:
   - hash:
       serializedVersion: 2
-      Hash: 5ab533713adae59372fb3e10a585c186
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: AnimationPlayableAsset
-  - hash:
-      serializedVersion: 2
       Hash: a6e561615949734e9f12f9b61661f43e
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
   - hash:
       serializedVersion: 2
       Hash: 77aaaaa51f7a8d8ff333a879741e47d2
@@ -555,5 +558,5 @@ ScriptsOnlyBuild:
     className: TouchInputModule
   platform: 13
   scenePathNames:
-  - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Work/BP/BarracudaBP/BarracudaBP/try-cam-3.apk
+  - Assets/Scenes/Detector.unity
+  playerPath: C:/Work/BP/BarracudaBP/Github/AndroidBuilds/android-build-final.apk
